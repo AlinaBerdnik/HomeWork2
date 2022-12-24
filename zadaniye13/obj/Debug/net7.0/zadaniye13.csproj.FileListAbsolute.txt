@@ -1,0 +1,15 @@
+/Users/andrejslennikov/HWseminar2/zadaniye13/bin/Debug/net7.0/zadaniye13
+/Users/andrejslennikov/HWseminar2/zadaniye13/bin/Debug/net7.0/zadaniye13.deps.json
+/Users/andrejslennikov/HWseminar2/zadaniye13/bin/Debug/net7.0/zadaniye13.runtimeconfig.json
+/Users/andrejslennikov/HWseminar2/zadaniye13/bin/Debug/net7.0/zadaniye13.dll
+/Users/andrejslennikov/HWseminar2/zadaniye13/bin/Debug/net7.0/zadaniye13.pdb
+/Users/andrejslennikov/HWseminar2/zadaniye13/obj/Debug/net7.0/zadaniye13.csproj.AssemblyReference.cache
+/Users/andrejslennikov/HWseminar2/zadaniye13/obj/Debug/net7.0/zadaniye13.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrejslennikov/HWseminar2/zadaniye13/obj/Debug/net7.0/zadaniye13.AssemblyInfoInputs.cache
+/Users/andrejslennikov/HWseminar2/zadaniye13/obj/Debug/net7.0/zadaniye13.AssemblyInfo.cs
+/Users/andrejslennikov/HWseminar2/zadaniye13/obj/Debug/net7.0/zadaniye13.csproj.CoreCompileInputs.cache
+/Users/andrejslennikov/HWseminar2/zadaniye13/obj/Debug/net7.0/zadaniye13.dll
+/Users/andrejslennikov/HWseminar2/zadaniye13/obj/Debug/net7.0/refint/zadaniye13.dll
+/Users/andrejslennikov/HWseminar2/zadaniye13/obj/Debug/net7.0/zadaniye13.pdb
+/Users/andrejslennikov/HWseminar2/zadaniye13/obj/Debug/net7.0/zadaniye13.genruntimeconfig.cache
+/Users/andrejslennikov/HWseminar2/zadaniye13/obj/Debug/net7.0/ref/zadaniye13.dll
